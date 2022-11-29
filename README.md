@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Davyeeh
+- 👋 Hi, I’m Davi
 - 👀 I’m interested in learn about the develop carrer and becoe better in the area
 - 🌱 I’m currently learning JavaScript and WEB developement (HTML5 and CSS3)
 - 💞️ I’m looking to collaborate on companys how help me grow up with them
