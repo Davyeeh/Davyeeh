@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**Davyeeh/Davyeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá!! Prazer, me chamo @Davyeeh 👋
 
 - 🔭 Hoje em dia trabalho com front-end
 - 🌱 Estudando JavaScript
