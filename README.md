@@ -117,7 +117,6 @@ Membro Trainee | 2022–2023
 - Inglês — Centro Cearense de Idiomas (CCI)
 - Microsoft Power BI — Básico — Fundação Bradesco
 - Responsive Web Design — freeCodeCamp
-- Marketing Pessoal — CEBRAC
 - Técnico em Informática — EEEP José de Barcelos
 
 ---
