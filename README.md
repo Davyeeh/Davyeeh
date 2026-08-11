@@ -67,8 +67,8 @@ O projeto conta com um dashboard interativo que permite explorar os dados utiliz
 
 📈 Outras ferramentas
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Básico-F2C811?style=for-the-badge&logo=powerbi&logoColor=yellow)
-![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?style=for-the-badge&logo=microsoftexcel&logoColor=green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Básico-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
