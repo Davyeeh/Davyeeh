@@ -36,9 +36,9 @@ Tecnologias utilizadas:
 
 O projeto conta com um dashboard interativo que permite explorar os dados utilizando filtros e diferentes visualizações.
 
-🔗 "Ver projeto no GitHub" (https://github.com/Davyeeh/Tecnologias-e-sa-de-de-mental)
+🔗 [Ver projeto no GitHub] (https://github.com/Davyeeh/Tecnologias-e-sa-de-de-mental)
 
-🌐 "Acessar Dashboard" (https://saude-tecnologia-ufc.streamlit.app/)
+🌐 [Acessar Dashboard] (https://saude-tecnologia-ufc.streamlit.app/)
 
 ---
 
@@ -47,14 +47,14 @@ O projeto conta com um dashboard interativo que permite explorar os dados utiliz
 🐍 Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"R" (https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R] (https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 📊 Dados e visualização
 
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-"Seaborn" (https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Pandas] (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy] (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib] (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn] (https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 "Plotly" (https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 🗄️ Banco de dados e desenvolvimento
