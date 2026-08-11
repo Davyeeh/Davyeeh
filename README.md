@@ -44,32 +44,31 @@ O projeto conta com um dashboard interativo que permite explorar os dados utiliz
 
 ## 🛠️ Tecnologias e ferramentas
 
-Linguagens
+🐍 Linguagens
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 "R" (https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-Dados e visualização
+📊 Dados e visualização
 
 "Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 "NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 "Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-"Plotly" (https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 "Seaborn" (https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+"Plotly" (https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-Banco de dados e desenvolvimento
+🗄️ Banco de dados e desenvolvimento
 
 "MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"HTML" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 "PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 "Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Outras ferramentas
+📈 Outras ferramentas
 
-- Microsoft Power BI
-- Microsoft Excel
-- Pacote Office
+"Power BI" (https://img.shields.io/badge/Power%20BI-Básico-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+"Excel" (https://img.shields.io/badge/Excel-Intermediário-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
