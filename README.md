@@ -132,4 +132,6 @@ Membro Trainee | 2022–2023
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+<div align="center">
+  <p><strong>⭐ Obrigado por visitar meu perfil!</strong></p>
+</div>
