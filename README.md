@@ -74,7 +74,7 @@ O projeto conta com um dashboard interativo que permite explorar os dados utiliz
 
 ## 💼 Experiência
 
-Núcleo de Aprendizagem Cooperativa (NAC) — UFC
+### Núcleo de Aprendizagem Cooperativa (NAC) — UFC
 
 Bolsista BIA — Suporte Técnico e Monitoria | 2024–2025
 
@@ -84,7 +84,7 @@ Bolsista BIA — Suporte Técnico e Monitoria | 2024–2025
 - Suporte em consultas e conexão com banco de dados MySQL.
 - Participação em atividades de aprendizagem cooperativa.
 
-Programa de Educação Tutorial (PET) — Estatística | UFC
+### Programa de Educação Tutorial (PET) — Estatística | UFC
 
 Membro Bolsista | 2022
 
@@ -92,7 +92,7 @@ Membro Bolsista | 2022
 - Participação em eventos acadêmicos e grupos de estudo.
 - Desenvolvimento de habilidades de comunicação e organização de projetos.
 
-Gauss Empresa Júnior de Estatística — UFC
+### Gauss Empresa Júnior de Estatística — UFC
 
 Membro Trainee | 2022–2023
 
@@ -104,7 +104,7 @@ Membro Trainee | 2022–2023
 
 ## 🎓 Formação
 
-Universidade Federal do Ceará — UFC
+### Universidade Federal do Ceará — UFC
 
 🎓 Bacharelado em Ciência de Dados
 
