@@ -126,7 +126,7 @@ Universidade Federal do Ceará — UFC
 
 📧 E-mail: daviaraujocontato9@gmail.com
 
-💼 LinkedIn: "Meu LinkedIn" (https://www.linkedin.com/)
+💼 LinkedIn: "Meu LinkedIn"(https://www.linkedin.com/in/davi-da-silva-araújo-616454253?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 🐙 GitHub: "@Davyeeh" (https://github.com/Davyeeh)
 
